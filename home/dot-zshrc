@@ -5,5 +5,3 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 pfetch
-alias nvim=helix
-alias desktop=Hyprland
