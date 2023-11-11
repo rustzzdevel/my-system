@@ -1,0 +1,6 @@
+[submodule "system/desktop/my-st"]
+	path = system/desktop/my-st
+	url = https://github.com/rustzzdevel/my-st
+[submodule "system/desktop/my-dwm"]
+	path = system/desktop/my-dwm
+	url = https://github.com/rustzzdevel/my-dwm
