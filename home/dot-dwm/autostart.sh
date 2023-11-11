@@ -1,6 +1,5 @@
 xcompmgr &
 feh --bg-scale ~/.wp.png &
-xrdb -merge ~/.Xresources &
 
 copyq --start-server &
 dunst &
