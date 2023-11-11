@@ -10,3 +10,6 @@ firefox
 pfetch
 terminus-cyrillic
 terminus-font-ttf
+efibootmgr
+grub
+os-prober
