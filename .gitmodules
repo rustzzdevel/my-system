@@ -4,3 +4,9 @@
 [submodule "system/desktop/my-dwm"]
 	path = system/desktop/my-dwm
 	url = https://github.com/rustzzdevel/my-dwm
+[submodule "home/user/.flutter-sdk"]
+	path = home/user/.flutter-sdk
+	url = https://github.com/flutter/flutter
+[submodule "usr/src/my-slstatus"]
+	path = usr/src/my-slstatus
+	url = git@github.com:rustzzdevel/my-slstatus
